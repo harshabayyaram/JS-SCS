@@ -112,3 +112,16 @@ console.log(arr);
 
 arr.unshift(1919);
 console.log(arr);
+
+
+var a = {
+    age: 20,
+    name: "harhsa",
+    place: "city",
+    color: "fair",
+    property: "Male",
+    method: function() {}
+}
+
+
+a.age = "adfadfaf";
